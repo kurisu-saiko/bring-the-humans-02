@@ -6,8 +6,8 @@
 
 New to make.fun? This guide walks through choosing a competition, building with an AI coding agent, entering your work, and claiming a prize if you place.
 
-> **Join through my referral link:** [https://make.fun/r/cacwagzj](https://make.fun/r/cacwagzj)  
-> **Referral code:** `cacwagzj`  
+> **Join through my referral link:** [https://make.fun/r/b498cetg](https://make.fun/r/b498cetg)  
+> **Referral code:** `b498cetg`  
 > Register through the link above so the referral is attached to your signup.
 
 ## What is make.fun?
@@ -39,7 +39,7 @@ Check the current bounty instructions for any additional software, accounts, or 
 
 ## 1. Create your account
 
-1. Start at [my referral link](https://make.fun/r/cacwagzj). The code is `cacwagzj`.
+1. Start at [my referral link](https://make.fun/r/b498cetg). The code is `b498cetg`.
 2. Choose **Sign in** and use an available sign-in option shown on the site.
 3. Finish any account setup the site requests, then open your profile and choose a username.
 4. Link the GitHub account that will own your entry repository.
@@ -152,7 +152,7 @@ Keep a copy of the result and claim confirmation for your records. If the site s
 
 After joining, you can find your own referral details in the Referrals area of your profile. Share them only with people who may genuinely want to try the platform. The page explains the current referral terms, eligibility, and rewards; check there for the latest details.
 
-Thanks for joining through [https://make.fun/r/cacwagzj](https://make.fun/r/cacwagzj) and using referral code `cacwagzj`.
+Thanks for joining through [https://make.fun/r/b498cetg](https://make.fun/r/b498cetg) and using referral code `b498cetg`.
 
 ## Helpful links
 
